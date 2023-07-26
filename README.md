@@ -1,5 +1,5 @@
 # 📚 _Prueba Web _
-Landing Page Pop It fot Tutor Kodland
+Landing Page Pop It for Tutor Kodland
 
 ## 📥 Repositorio Backend
 
@@ -8,4 +8,4 @@ Landing Page Pop It fot Tutor Kodland
 
 ## ⚒ Deploy
 
-> 
+> https://jacobzash.github.io/PruebaWeb/
